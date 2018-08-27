@@ -1,6 +1,6 @@
 # React Couteau - Barebones React Starter
 
-![alt text](https://github.com/MarcelCutts/ReactCouteau/blob/master/logo.jpg)
+![alt text](https://github.com/MarcelCutts/ReactCouteau/blob/master/logo.jpeg "A chef's knife")
 
 I often find myself making a barebones React instance to play with ideas, new libraries, or to attempt to reproduce odd isssues.
 
